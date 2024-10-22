@@ -1,5 +1,4 @@
-## Olá! Eu sou o José Pedro
-
+## Olá! Eu sou o José Pedro estudante de programação 😁✌
 
 
 - 🔭 Atualmenete ainda não trabalho 
