@@ -5,12 +5,11 @@
 - 🔭 Atualmenete ainda não trabalho 
 - 🌱 Atualmente estou estudando JavaScript e Java
 
-‹div>
-‹a href="https://github.com/JP1890">
-<img height-"180em" src-"https://github-readme-stats.vercel.app/api?username=JP18090&show_icons=true&theme=dark&include_all_commits=true&coumcimg/>
-<img height-"180em" src-"https://github-readme-stats.vercel.app/api/top-langs/?username=JP18090&layout=compact&langs_count=16&theme=dark"/›
+<div>
+<a href="https://github.com/JP1890">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JP18090&layout=compact&langs_count=8&theme=dark"/>    
+</a>
 </div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="JP-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="JP-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
