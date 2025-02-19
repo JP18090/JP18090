@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmenete ainda não trabalho 
-- 🌱 Atualmente estou estudando JavaScript e Java
+- 🌱 Atualmente estou estudando Java
 
 <div>
 <a href="https://github.com/JP1890">
