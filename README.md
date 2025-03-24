@@ -1,7 +1,7 @@
 ## Olá! Eu sou o José Pedro estudante de programação 😁✌
 
 
-- 🔭 Atualmenete ainda não trabalho 
+- 🔭 Na Procura de um belo estágio 
 - 🌱 Atualmente estou estudando Java
 
 <div>
