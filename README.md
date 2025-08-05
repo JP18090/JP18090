@@ -1,8 +1,8 @@
 ## Olá! Eu sou o José Pedro estudante de programação 😁✌
 
 
-- 🔭 Na Procura de um belo estágio 
-- 🌱 Atualmente estou estudando Java
+- 🔭 Estagiando na Tech Rocket 
+- 🌱 Atualmente estou estudando programação e explorando movimentos mais modernos como low code e no code, buscando unir lógica e praticidade para desenvolver soluções de forma mais ágil e acessível.
 
 <div>
 <a href="https://github.com/JP1890">
