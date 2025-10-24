@@ -2,7 +2,7 @@
 
 
 - 🔭 Estagiando na Tech Rocket 
-- 🌱 Atualmente estou estudando programação e explorando movimentos mais modernos como low code e no code, buscando unir lógica e praticidade para desenvolver soluções de forma mais ágil e acessível.
+- 🌱 Atualmente estou estudando programação e explorando movimentos mais modernos como low code e no code, buscando unir lógica e praticidade para desenvolver soluções de forma mais ágil e acessível. 
 
 <div>
 <a href="https://github.com/JP1890">
@@ -19,7 +19,6 @@
 </div>
 <br>
 <div> 
-  <a href="https://instagram.com/pedro_bitetti" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:pedrotakcthuk@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/josé-pedro-bitetti-tkatchuk-584aba303" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
