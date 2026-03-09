@@ -1,7 +1,7 @@
 ## Olá! Eu sou o José Pedro estudante de programação 😁✌
 
 
-- 🔭 Estagiando na Tech Rocket 
+- 🔭 Estagiando na Brasol
 - 🌱 Atualmente estou estudando programação e explorando movimentos mais modernos como low code e no code, buscando unir lógica e praticidade para desenvolver soluções de forma mais ágil e acessível. 
 
 <div>
