@@ -16,8 +16,6 @@
 </a>
 </div>
 
----
-
 ## 🛠️ Tecnologias
 
 <div style="display: inline_block"><br>
