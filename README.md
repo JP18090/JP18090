@@ -1,9 +1,7 @@
 <div align="center">
-
 <img width="100%" src="./header.svg" alt="José Pedro"/>
-
 <img src="./typing.svg" alt="Estudante de Sistemas de Informação | Estagiário de Compliance & OpRisk | Itaú"/>
-
+<img src="./itau-logo.svg" width="110" alt="Itaú"/>
 </div>
 
 ## 👋 Olá! Eu sou o José Pedro
