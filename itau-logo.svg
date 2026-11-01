@@ -5,9 +5,9 @@
   <defs>
     <clipPath id="reveal">
       <!-- revela o "itaú" da esquerda para a direita -->
-      <rect x="34" y="40" width="88" height="80">
+      <rect x="34" y="40" width="98" height="80">
         <animate attributeName="width" dur="8s" repeatCount="indefinite"
-                 values="0;0;88;88" keyTimes="0;0.45;0.68;1"/>
+                 values="0;0;98;98" keyTimes="0;0.45;0.68;1"/>
       </rect>
     </clipPath>
   </defs>
